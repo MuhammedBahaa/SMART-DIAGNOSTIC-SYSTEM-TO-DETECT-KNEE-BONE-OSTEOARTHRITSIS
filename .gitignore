@@ -1,6 +1,5 @@
-flutter_assets/
-/flutter_assets/
-# Miscellaneous
+
+# Miscelaneous
 *.class
 *.log
 *.pyc
